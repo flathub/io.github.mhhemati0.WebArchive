@@ -21,8 +21,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/mhhemati0/WebArchive.git",
-                    "tag": "v1.2.3",
-                    "commit": "69d951e001884886edb3db94db1811d40d9e23b9"
+                    "tag": "v1.2.5",
+                    "commit": "43e493597f218dc2f8aaddcca4c9b5d6aec9a497"
                 }
             ]
         }
